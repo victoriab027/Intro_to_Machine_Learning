@@ -10,15 +10,15 @@ Coursework from ESE 417: 	Introduction to Machine Learning and Pattern Classific
 -- Ride Regression
 -- Lasso Regression
 -- Polynomial Regression
-- Error Analysis
+- Error Analysis<b>
 <b>Homework 3</b>
 - Preceptron Model 
-- Test-train-split
+- Test-train-split<br>
 <b>Homework 4</b>
 - SVM models
 - Manipulating kernels
 - Training different classificaiton models for accuracy
-- Designing an MLP model
+- Designing an MLP model<br>
 <b>Homework 5</b>
 - KNN Algorithm
 - GridSearchCV
