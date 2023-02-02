@@ -10,7 +10,7 @@ Coursework from ESE 417: 	Introduction to Machine Learning and Pattern Classific
 -- Ride Regression
 -- Lasso Regression
 -- Polynomial Regression
-- Error Analysis<b>
+- Error Analysis<br>
 <b>Homework 3</b>
 - Preceptron Model 
 - Test-train-split<br>
