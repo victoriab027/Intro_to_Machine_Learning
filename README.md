@@ -4,7 +4,7 @@ Coursework from ESE 417: 	Introduction to Machine Learning and Pattern Classific
 ## Project Structure
 <b>Homework 1</b>
 - Using Gradient Descent to Solve Optimization Problems
-<br>
+
 <b>Homework 2</b>
 - Utilize Regression Models
 -- Linear Regression
