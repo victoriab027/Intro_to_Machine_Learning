@@ -4,6 +4,7 @@ Coursework from ESE 417: 	Introduction to Machine Learning and Pattern Classific
 ## Project Structure
 <b>Homework 1</b>
 - Using Gradient Descent to Solve Optimization Problems
+<br>
 <b>Homework 2</b>
 - Utilize Regression Models
 -- Linear Regression
@@ -11,14 +12,20 @@ Coursework from ESE 417: 	Introduction to Machine Learning and Pattern Classific
 -- Lasso Regression
 -- Polynomial Regression
 - Error Analysis<br>
+
+
 <b>Homework 3</b>
 - Preceptron Model 
 - Test-train-split<br>
+
+
 <b>Homework 4</b>
 - SVM models
 - Manipulating kernels
 - Training different classificaiton models for accuracy
 - Designing an MLP model<br>
+
+
 <b>Homework 5</b>
 - KNN Algorithm
 - GridSearchCV
