@@ -7,10 +7,10 @@ Coursework from ESE 417: 	Introduction to Machine Learning and Pattern Classific
 
 <b>Homework 2</b>
 - Utilize Regression Models
--- Linear Regression
--- Ride Regression
--- Lasso Regression
--- Polynomial Regression
+  -Linear Regression
+  - Ride Regression
+  - Lasso Regression
+  - Polynomial Regression
 - Error Analysis<br>
 
 
