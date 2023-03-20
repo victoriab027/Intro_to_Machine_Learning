@@ -1,5 +1,5 @@
 # ESE 417 - Intro to Machine Learning
-Coursework from ESE 417: 	Introduction to Machine Learning and Pattern Classification at Washington University in St. Louis. This course taught a broad introduction to machine learning and statistical pattern classification. We studied theoretical foundations of learning and several important supervised and unsupervised machine learning methods and algorithms including linear model of regression and classification, logistic regression, Bayesian learning methods, neural networks, nearest neighbor method, support vector machines methods, clustering methods and principal component analysis.<br>
+Coursework from Introduction to Machine Learning and Pattern Classification at Washington University in St. Louis. This course taught a broad introduction to machine learning and statistical pattern classification. We studied theoretical foundations of learning and several important supervised and unsupervised machine learning methods and algorithms including linear model of regression and classification, logistic regression, Bayesian learning methods, neural networks, nearest neighbor method, support vector machines methods, clustering methods and principal component analysis.<br>
 
 ## Project Structure
 <b>Homework 1</b>
